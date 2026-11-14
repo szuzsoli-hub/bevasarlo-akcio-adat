@@ -1,0 +1,37 @@
+{
+ "forma": 1,
+ "az": "penny_202646_a40976f3",
+ "bolt_kod": "penny",
+ "nev": "Penny reklámújság",
+ "tol": "2026-11-12",
+ "ig": "2026-11-18",
+ "url": "https://files.rewe.co.at/PennyIntLeaflet/HU/202646/",
+ "oldalak": {
+  "2": {
+   "link": "https://files.rewe.co.at/PennyIntLeaflet/HU/202646/2/"
+  },
+  "17": {
+   "link": "https://files.rewe.co.at/PennyIntLeaflet/HU/202646/17/"
+  }
+ },
+ "ajanlatok": [
+  {"id":"penny_202646_a40976f3-2-01","oldal":2,"nev":"ROPPANÓS PÁRNA XXL*","marka":"Louisa","csoport":"macskasnack","fajta":["2-féle"],"kiszereles":"400 g","menny":0.4,"me":"kg","ar":888,"regi_ar":null,"szazalek":null,"egysegar":2220,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-2-02","oldal":2,"nev":"LOUISA MACSKAALOM XXL","marka":"Louisa","csoport":"macskaalom","fajta":["XXL"],"kiszereles":"10 liter","menny":10,"me":"l","ar":999,"regi_ar":null,"szazalek":null,"egysegar":100,"egysegar_alap":"l","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-2-03","oldal":2,"nev":"LOUISA MOUSSE MACSKAELEDEL","marka":"Louisa","csoport":"macskaeledel","fajta":["mousse, 4-féle"],"kiszereles":"85 g","menny":0.085,"me":"kg","ar":229,"regi_ar":null,"szazalek":null,"egysegar":2694,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-2-04","oldal":2,"nev":"LOUISA JUTALOM FALAT","marka":"Louisa","csoport":"macskajutalomfalat","fajta":["4-féle"],"kiszereles":"50 g","menny":0.05,"me":"kg","ar":499,"regi_ar":null,"szazalek":null,"egysegar":9980,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-2-05","oldal":2,"nev":"LOUISA SZÁRAZ MACSKAELEDEL","marka":"Louisa","csoport":"száraz macskaeledel","fajta":["2-féle"],"kiszereles":"2 kg","menny":2,"me":"kg","ar":1299,"regi_ar":null,"szazalek":null,"egysegar":650,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-2-06","oldal":2,"nev":"LOUISA SELECT VÁLOGATÁS MULTIPACK","marka":"Louisa","csoport":"macskaeledel multipack","fajta":["2-féle"],"kiszereles":"4 x 85 g","menny":0.34,"me":"kg","ar":699,"regi_ar":null,"szazalek":null,"egysegar":2056,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-01","oldal":17,"nev":"HERBÁRIA TEA téli varázs","marka":"Herbária","csoport":"tea","fajta":["téli varázs"],"kiszereles":"45 g","menny":0.045,"me":"kg","ar":1799,"regi_ar":null,"szazalek":null,"egysegar":39977.78,"egysegar_alap":"kg","egysegar_forras":"szamolt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-02","oldal":17,"nev":"PICKWICK KARÁCSONYI TEAVARÁZS","marka":"Pickwick","csoport":"tea","fajta":["karácsonyi teavarázs"],"kiszereles":"44 g","menny":0.044,"me":"kg","ar":1399,"regi_ar":null,"szazalek":null,"egysegar":31795.45,"egysegar_alap":"kg","egysegar_forras":"szamolt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-03","oldal":17,"nev":"BIOTECH KARÁCSONYI CSOMAG protein power, csokoládés, 500 g + whey shake, vaníliás, 500 g + karácsonyi extra shaker","marka":"BioTech","csoport":"fehérjepor-csomag","fajta":["csokoládés protein power és vaníliás whey shake"],"kiszereles":"500 g + 500 g + karácsonyi extra shaker","menny":1,"me":"kg","ar":8999,"regi_ar":null,"szazalek":null,"egysegar":8999,"egysegar_alap":"kg","egysegar_forras":"szamolt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-04","oldal":17,"nev":"L’ANGELICA TUSFÜRDŐ sóskaramell, alma, kakaó","marka":"L’Angelica","csoport":"tusfürdő","fajta":["sóskaramell, alma, kakaó"],"kiszereles":"500 ml","menny":0.5,"me":"l","ar":999,"regi_ar":null,"szazalek":null,"egysegar":1998,"egysegar_alap":"l","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-05","oldal":17,"nev":"HELIA-D CLASSIC TÁPLÁLÓ HIDRATÁLÓ AJÁNDÉKCSOMAG normál krém 50 ml + éjszakai krém 50 ml","marka":"Helia-D","csoport":"arckrém ajándékcsomag","fajta":["tápláló és hidratáló; normál krém és éjszakai krém"],"kiszereles":"50 ml + 50 ml","menny":0.1,"me":"l","ar":3999,"regi_ar":null,"szazalek":null,"egysegar":39990,"egysegar_alap":"l","egysegar_forras":"szamolt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-06","oldal":17,"nev":"L’OREAL AGE SPECIALIST AJÁNDÉKCSOMAG nappali krém 50 ml + éjszakai krém 50 ml","marka":"L’Oréal","csoport":"arckrém ajándékcsomag","fajta":["2-féle"],"kiszereles":"50 ml + 50 ml","menny":0.1,"me":"l","ar":4999,"regi_ar":null,"szazalek":null,"egysegar":49990,"egysegar_alap":"l","egysegar_forras":"szamolt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-07","oldal":17,"nev":"20 LED-ES FÉNYFÜZÉR melegfehér","marka":null,"csoport":"fényfüzér","fajta":["melegfehér, beltéri"],"kiszereles":"kb. 105 cm","menny":null,"me":null,"ar":399,"regi_ar":null,"szazalek":null,"egysegar":null,"egysegar_alap":null,"egysegar_forras":null,"feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-08","oldal":17,"nev":"LED-ES ÜLŐ ANGYAL DEKOR","marka":null,"csoport":"angyal dekor","fajta":["többféle szín és kivitel"],"kiszereles":"14 x 8 x 55 cm","menny":null,"me":null,"ar":1999,"regi_ar":null,"szazalek":null,"egysegar":null,"egysegar_alap":null,"egysegar_forras":null,"feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-09","oldal":17,"nev":"DEKOR MANÓ LED-ES ORRAL","marka":null,"csoport":"dekor manó","fajta":["többféle színben"],"kiszereles":"21 x 13 x 36 cm","menny":null,"me":null,"ar":2999,"regi_ar":null,"szazalek":null,"egysegar":null,"egysegar_alap":null,"egysegar_forras":null,"feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-10","oldal":17,"nev":"LINDT GOLD TABLET CSOKOLÁDÉ","marka":"Lindt","csoport":"csokoládé","fajta":["3-féle"],"kiszereles":"100 g","menny":0.1,"me":"kg","ar":999,"regi_ar":null,"szazalek":null,"egysegar":9990,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-11","oldal":17,"nev":"LINDT LINDOR PRALINÉ","marka":"Lindt Lindor","csoport":"praliné","fajta":["4-féle"],"kiszereles":"200 g","menny":0.2,"me":"kg","ar":2599,"regi_ar":null,"szazalek":null,"egysegar":12995,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"},
+  {"id":"penny_202646_a40976f3-17-12","oldal":17,"nev":"LINDT LINDOR PRALINÉ KARÁCSONYFA ALAKÚ DOBOZBAN","marka":"Lindt Lindor","csoport":"praliné","fajta":["tej"],"kiszereles":"125 g","menny":0.125,"me":"kg","ar":2499,"regi_ar":null,"szazalek":null,"egysegar":19992,"egysegar_alap":"kg","egysegar_forras":"kiirt","feltetelek":[],"tol":"2026-11-12","ig":"2026-11-18","ell":"szoveg"}
+ ]
+}
