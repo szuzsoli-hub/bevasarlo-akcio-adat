@@ -1,6 +1,6 @@
 {
  "forma": 1,
- "frissitve": "2026-11-14T21:40:43+01:00",
+ "frissitve": "2026-11-19T17:59:23+01:00",
  "boltok": [
   {
    "kod": "aldi",
@@ -17,52 +17,21 @@
  ],
  "ujsagok": [
   {
-   "az": "aldi_aldi-online-akcios-ujsag-2026-kw46_fe9357c3",
-   "bolt_kod": "aldi",
-   "nev": "ALDI akciós újság",
-   "tol": "2026-11-12",
-   "ig": "2026-11-18",
-   "url": "https://szorolap.aldi.hu/aldi_online_akcios_ujsag_2026_kw46",
-   "oldalak": 61,
-   "oldalak_kesz": 4,
-   "ajanlatok": 35,
-   "allapot": "reszben",
-   "miert": null,
-   "fajl": "ujsag/aldi_aldi-online-akcios-ujsag-2026-kw46_fe9357c3.json",
-   "valtozat_szam": 1,
-   "lenyomat": "82e8487485017cc0"
-  },
-  {
    "az": "aldi_aldi-online-akcios-ujsag-2026-kw47_90f57afa",
    "bolt_kod": "aldi",
    "nev": "ALDI akciós újság",
    "tol": "2026-11-19",
    "ig": "2026-11-25",
+   "utolso_nap": "2026-11-25",
    "url": "https://szorolap.aldi.hu/aldi_online_akcios_ujsag_2026_kw47",
    "oldalak": 55,
-   "oldalak_kesz": 0,
-   "ajanlatok": 0,
-   "allapot": "nincs_feldolgozva",
-   "miert": "meg_nincs_olvasva",
-   "fajl": null,
-   "valtozat_szam": 0,
-   "lenyomat": null
-  },
-  {
-   "az": "penny_202646_a40976f3",
-   "bolt_kod": "penny",
-   "nev": "Penny reklámújság",
-   "tol": "2026-11-12",
-   "ig": "2026-11-18",
-   "url": "https://files.rewe.co.at/PennyIntLeaflet/HU/202646/",
-   "oldalak": 45,
-   "oldalak_kesz": 4,
-   "ajanlatok": 18,
-   "allapot": "reszben",
+   "oldalak_kesz": 55,
+   "ajanlatok": 289,
+   "allapot": "kesz",
    "miert": null,
-   "fajl": "ujsag/penny_202646_a40976f3.json",
+   "fajl": "ujsag/aldi_aldi-online-akcios-ujsag-2026-kw47_90f57afa.json",
    "valtozat_szam": 1,
-   "lenyomat": "3c7c897c9e59115a"
+   "lenyomat": "d0e23acecc4cd9f7"
   },
   {
    "az": "penny_202647_9b99249f",
@@ -70,15 +39,16 @@
    "nev": "Penny reklámújság",
    "tol": "2026-11-19",
    "ig": "2026-11-25",
+   "utolso_nap": "2026-11-25",
    "url": "https://files.rewe.co.at/PennyIntLeaflet/HU/202647/",
-   "oldalak": 0,
-   "oldalak_kesz": 0,
-   "ajanlatok": 0,
-   "allapot": "nincs_feldolgozva",
-   "miert": "meg_nincs_olvasva",
-   "fajl": null,
-   "valtozat_szam": 0,
-   "lenyomat": null
+   "oldalak": 45,
+   "oldalak_kesz": 45,
+   "ajanlatok": 344,
+   "allapot": "kesz",
+   "miert": null,
+   "fajl": "ujsag/penny_202647_9b99249f.json",
+   "valtozat_szam": 1,
+   "lenyomat": "17d1cbea8189d773"
   }
  ]
 }
